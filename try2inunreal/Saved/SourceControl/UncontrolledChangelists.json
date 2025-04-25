@@ -6,7 +6,9 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/LEWISK5/OneDrive - East Tennessee State University/github/try2clone/try2/try2inunreal/Content/StarterContent/Architecture/Floor_400x400.uasset",
-				"C:/Users/LEWISK5/OneDrive - East Tennessee State University/github/try2clone/try2/try2inunreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/8A/XMFG2WPRF53RZMUPJ0XHJ6.uasset"
+				"C:/Users/LEWISK5/OneDrive - East Tennessee State University/github/try2clone/try2/try2inunreal/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/8A/XMFG2WPRF53RZMUPJ0XHJ6.uasset",
+				"C:/Users/LEWISK5/OneDrive - East Tennessee State University/github/try2clone/try2/try2inunreal/Content/WidgetsandHUD/HUDwidget.uasset",
+				"C:/Users/LEWISK5/OneDrive - East Tennessee State University/github/try2clone/try2/try2inunreal/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
 		}
 	]
